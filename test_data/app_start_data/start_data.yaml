@@ -1,0 +1,9 @@
+platformName: Android
+platformVersion: 6.0.1
+deviceName: Android Emulator
+appPackage: com.uxin.usedcar
+appActivity: com.uxin.mainmodule.ui.activity.main.MainActivity
+autoGrantPermissions: true
+automationName: uiautomator2
+unicodeKeyboard: True
+resetKeyboard: True
